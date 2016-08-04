@@ -5,6 +5,7 @@
 ## Web
 
 * [webargs](http://webargs.readthedocs.io) - A friendly library for parsing HTTP request arguments
+* [Django Books](http://djangoweekly.com/books/) - List of Django books
 
 ## Data Analysis
 
@@ -18,4 +19,4 @@
 ## Awesome Lists
 
 * [List of languages that compile to python](https://github.com/vindarel/languages-that-compile-to-python)
-* [A curated list of awesome Python frameworks, libraries, software and resources)[http://awesome-python.com/]
+* [A curated list of awesome Python frameworks, libraries, software and resources](http://awesome-python.com/)
