@@ -6,6 +6,7 @@
 
 * [webargs](http://webargs.readthedocs.io) - A friendly library for parsing HTTP request arguments
 * [Django Books](http://djangoweekly.com/books/) - List of Django books
+* [Django Sekizai](https://github.com/ojii/django-sekizai) - Django Template Blocks with extra functionality
 
 ## Data Analysis
 
