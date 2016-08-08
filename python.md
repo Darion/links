@@ -1,5 +1,7 @@
 # Python
 
+* [Planet Python](http://planetpython.org/)
+
 * [Pendulum](https://pendulum.eustace.io/) - Handle datetimes, timedeltas and timezones in a more natural fashion.
 
 ## Web
@@ -7,6 +9,7 @@
 * [webargs](http://webargs.readthedocs.io) - A friendly library for parsing HTTP request arguments
 * [Django Books](http://djangoweekly.com/books/) - List of Django books
 * [Django Sekizai](https://github.com/ojii/django-sekizai) - Django Template Blocks with extra functionality
+* [Nikola](https://getnikola.com/) - Static Site Generator
 
 ## Data Analysis
 
