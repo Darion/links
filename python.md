@@ -3,6 +3,7 @@
 * [Planet Python](http://planetpython.org/)
 
 * [Pendulum](https://pendulum.eustace.io/) - Handle datetimes, timedeltas and timezones in a more natural fashion.
+* [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python. CLI, IPython Notebooks.
 
 ## Web
 
