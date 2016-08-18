@@ -1,3 +1,7 @@
+## Javascript Reading Materials
+
+* [superhero.js](http://superherojs.com/) is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, etc.
+
 ## Javascript UI Libs
 
 * [Cleave.js](http://nosir.github.io/cleave.js/) - Format your `<input\>` content when you are typing
