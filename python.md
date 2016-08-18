@@ -1,9 +1,14 @@
 # Python
 
 * [Planet Python](http://planetpython.org/)
+* [pyvideo](http://pyvideo.org/)
 
 * [Pendulum](https://pendulum.eustace.io/) - Handle datetimes, timedeltas and timezones in a more natural fashion.
 * [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python. CLI, IPython Notebooks.
+* [docopt](http://docopt.org) - Command-line interface description language
+* [pigar](https://github.com/Damnever/pigar) - A fantastic tool to generate requirements file for your Python project, and more than that
+* [retry.it](https://github.com/seemethere/retry.it) - a simple retry library
+* [attrs](https://attrs.readthedocs.io/en/stable/) - Attributes without boilerplate
 
 ## Web
 
@@ -20,6 +25,10 @@
 
 * [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv)
 * [BlackWidow](https://github.com/madisonmay/BlackWidow) - Visualizing Python Project Import Graphs
+
+## Reading Materials
+
+* [Python wats](https://github.com/cosmologicon/pywat)
 
 ## Awesome Lists
 
