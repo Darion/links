@@ -14,6 +14,9 @@
 * [Dependency Injector](https://github.com/ets-labs/python-dependency-injector) - Python dependency injection framework
 * [undebt](https://github.com/Yelp/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
 * [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
+* [imapclient](https://github.com/mjs/imapclient) - An easy-to-use, Pythonic and complete IMAP client library
+* [dataset](https://dataset.readthedocs.io/en/latest/index.html) - databases for lazy people
+* [knitpy](https://github.com/janschulz/knitpy) and [pystitch](https://pystitch.github.io/) - libs for writing reproducible reports in markdown
 
 ## CLI
 
