@@ -4,6 +4,8 @@
 
 * [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - A beautiful Slack command line interface
 * [tv-overlord](https://github.com/8cylinder/tv-overlord) - download and manage tv shows
+* [Streamlink](https://streamlink.github.io/) - is a command-line utility that pipes video streams from various services into a video player, such as VLC, livestreamer fork
+* [ranger](http://ranger.nongnu.org/) is a console file manager with VI key bindings
 
 ## vim
 
@@ -14,3 +16,11 @@
 ## Other
 
 * [spacemacs](http://spacemacs.org/) 
+* [wtee](http://wtee.readthedocs.io/en/latest/) - Much like the unix tee utility, wtee duplicates standard input to standard output, while also making the piped data viewable on a web page
+* [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+* [Archlinux no DE install guide](http://nicholasglazer.github.io/arch-cheat-sheet/)
+
+## sysadm
+
+* [automatron](https://github.com/madflojo/automatron) - Autonomous IT Systems Monitoring and Remediation
+* [restic](https://restic.github.io/) is a program that does backups right

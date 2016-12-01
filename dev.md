@@ -7,3 +7,4 @@
 * [warriorjs](https://github.com/olistic/warriorjs) - Game written in JavaScript for learning JavaScript and artificial intelligence
 
 * [nativefier](https://github.com/jiahaog/nativefier) - Wrap any web page natively without even thinking, across Windows, OSX and Linux
+* [Insomnia](https://insomnia.rest') - A simple and beautiful REST API client

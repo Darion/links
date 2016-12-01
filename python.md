@@ -17,11 +17,14 @@
 * [imapclient](https://github.com/mjs/imapclient) - An easy-to-use, Pythonic and complete IMAP client library
 * [dataset](https://dataset.readthedocs.io/en/latest/index.html) - databases for lazy people
 * [knitpy](https://github.com/janschulz/knitpy) and [pystitch](https://pystitch.github.io/) - libs for writing reproducible reports in markdown
+* [cerberus](http://docs.python-cerberus.org/en/stable/) provides powerful yet simple and lightweight data validation functionality out of the box and is designed to be easily extensible, allowing for custom validation
+* [Retrace](http://d0ugal.github.io/retrace/) - Configurable, elegant retrying decorator
 
 ## CLI
 
 * [docopt](http://docopt.org) - Command-line interface description language
 * [click](http://click.pocoo.org/) - is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary
+* [cmdtree](https://github.com/winkidney/cmdtree) - Yet another cli library , click-like but sub-command friendly and designed for cli auto-generating.
 
 ## Inbox
 
@@ -30,6 +33,14 @@
 * [Lackey](https://github.com/glitchassassin/lackey) - Graphical desktop automation with Python
 * [jellyfish](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings
 * [cohesion](https://github.com/mschwager/cohesion) - a tool for measuring Python class cohesion
+* [Orator](https://orator-orm.com/) - An ActiveRecord ORM for Python
+* [reprint](https://github.com/Yinzo/reprint) - A simple module for Python 2/3 to print and refresh multi line output contents in terminal
+* [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+* [Python cheatsheet](https://www.pythonsheets.com/) - This project tries to provide a lot of piece of Python code that makes life easier.
+
+## Testing
+
+* [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) - Propertry based testing library
 
 ## Web
 
@@ -46,6 +57,7 @@
 
 * [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv)
 * [BlackWidow](https://github.com/madisonmay/BlackWidow) - Visualizing Python Project Import Graphs
+* [lptrace](https://github.com/khamidou/lptrace#technical-details) is strace for Python programs. It lets you see in real-time what functions a Python program is running. It's particularly useful to debug weird issues on production.
 
 ## Reading Materials
 
@@ -55,3 +67,4 @@
 
 * [List of languages that compile to python](https://github.com/vindarel/languages-that-compile-to-python)
 * [A curated list of awesome Python frameworks, libraries, software and resources](http://awesome-python.com/)
+* [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
