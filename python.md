@@ -5,6 +5,7 @@
 * [pyvideo](http://pyvideo.org/)
 * [Python Books](http://pythonbooks.revolunet.com/) - The best free Python resources
 * [Think Complexity](http://greenteapress.com/complexity/html/index.html) - book is about data structures and algorithms, intermediate programming in Python, computational modeling and the philosophy of science
+* [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 * [Pendulum](https://pendulum.eustace.io/) - Handle datetimes, timedeltas and timezones in a more natural fashion.
 * [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python. CLI, IPython Notebooks.
@@ -47,11 +48,14 @@
 * [webargs](http://webargs.readthedocs.io) - A friendly library for parsing HTTP request arguments
 * [Django Books](http://djangoweekly.com/books/) - List of Django books
 * [Django Sekizai](https://github.com/ojii/django-sekizai) - Django Template Blocks with extra functionality
+* [awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 * [Nikola](https://getnikola.com/) - Static Site Generator
+* [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
 ## Data Analysis
 
 * [wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
+* [Bokeh](http://bokeh.pydata.org/en/latest/) is a Python interactive visualization library that targets modern web browsers for presentation 
 
 ## Dev Tools
 
@@ -68,3 +72,4 @@
 * [List of languages that compile to python](https://github.com/vindarel/languages-that-compile-to-python)
 * [A curated list of awesome Python frameworks, libraries, software and resources](http://awesome-python.com/)
 * [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
+* [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - None
