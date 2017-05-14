@@ -21,11 +21,13 @@
 * [cerberus](http://docs.python-cerberus.org/en/stable/) provides powerful yet simple and lightweight data validation functionality out of the box and is designed to be easily extensible, allowing for custom validation
 * [Retrace](http://d0ugal.github.io/retrace/) - Configurable, elegant retrying decorator
 
+
 ## CLI
 
 * [docopt](http://docopt.org) - Command-line interface description language
 * [click](http://click.pocoo.org/) - is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary
 * [cmdtree](https://github.com/winkidney/cmdtree) - Yet another cli library , click-like but sub-command friendly and designed for cli auto-generating.
+* [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 ## Inbox
 
@@ -52,6 +54,12 @@
 * [Nikola](https://getnikola.com/) - Static Site Generator
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
+
+## ORM
+
+* [sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
+
+
 ## Data Analysis
 
 * [wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
@@ -68,6 +76,7 @@
 ## Reading Materials
 
 * [Python wats](https://github.com/cosmologicon/pywat)
+* [Designing Modules in Python](https://hashedin.com/training/designing-modules-in-python-ebook/)
 
 ## Awesome Lists
 
