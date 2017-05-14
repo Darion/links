@@ -11,11 +11,13 @@
 
 * [docco](https://github.com/jashkenas/docco) - is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator
 * [swagger.io](http://swagger.io) is a popular open source framework backed by a large ecosystem of tools that helps you design, build, document, and consume your RESTful APIs
-
+* [Gnarley Trees](https://people.ksp.sk/~kuko/gnarley-trees/) - projects focused on visualization of various tree data structures
+* [kite](https://kite.com) - smart autocompletion and documentation engine for python (more languages coming soon)
 
 ## Reading
 
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [dev-books](http://dev-books.com) - books, most recommended on stackoverflow
 
 ## Guides
 

@@ -9,3 +9,7 @@
 
 * [tele.ga](tele.ga) - real-time content publishing of your telegram channel into web
 * [telegra.ph](telegra.ph) - minimalistic anonymous stories publishing
+
+## Web-browsers plugins
+
+* [Hypothesis](https://hypothes.is) - web annotation plugin

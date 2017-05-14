@@ -1,6 +1,7 @@
 # Apps
 
 * [WMail](https://thomas101.github.io/wmail/) - The missing desktop client for Gmail & Google Inbox
+* [Cerebro](https://cerebroapp.com) - search-everything app, based on electron
 
 # CLI
 

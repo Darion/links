@@ -72,6 +72,7 @@
 * [lptrace](https://github.com/khamidou/lptrace#technical-details) is strace for Python programs. It lets you see in real-time what functions a Python program is running. It's particularly useful to debug weird issues on production.
 * [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
 * [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
+* [pyup](https://pyup.io) - sends you automated pull requests with security updates for dependencies
 
 ## Reading Materials
 

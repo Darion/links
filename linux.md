@@ -26,8 +26,9 @@
 
 * [automatron](https://github.com/madflojo/automatron) - Autonomous IT Systems Monitoring and Remediation
 * [restic](https://restic.github.io/) is a program that does backups right
+* [monit](https://mmonit.com/monit) - small open source utility for managig and monitoring Unix systems
 
 ## Inbox
+
 * [smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor.  Once done, your selection will be sent to standard output. Screencasts can be found in the Wiki
 * [green-recorder](https://github.com/green-project/green-recorder) - A simple yet functional desktop recorder for Linux systems.
-* 
