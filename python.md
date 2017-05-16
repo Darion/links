@@ -41,6 +41,7 @@
 * [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 * [Python cheatsheet](https://www.pythonsheets.com/) - This project tries to provide a lot of piece of Python code that makes life easier.
 
+
 ## Testing
 
 * [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) - Propertry based testing library
@@ -78,6 +79,7 @@
 
 * [Python wats](https://github.com/cosmologicon/pywat)
 * [Designing Modules in Python](https://hashedin.com/training/designing-modules-in-python-ebook/)
+* [The Many Layers of Packaging](http://sedimental.org/the_packaging_gradient.html) 
 
 ## Awesome Lists
 
@@ -85,3 +87,5 @@
 * [A curated list of awesome Python frameworks, libraries, software and resources](http://awesome-python.com/)
 * [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 * [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - None
+* [python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
+* [Curated list of courses on Python](http://bafflednerd.com/learn-python-online/)

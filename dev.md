@@ -18,6 +18,7 @@
 
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [dev-books](http://dev-books.com) - books, most recommended on stackoverflow
+* [100 days of algorythms](https://medium.com/100-days-of-algorithms)
 
 ## Guides
 
