@@ -28,3 +28,8 @@
 
 * [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases
 * [ctop](http://ctop.sh/) - concise commandline monitoring for containers
+
+## Awesome Lists
+
+
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.

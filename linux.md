@@ -15,6 +15,10 @@
 * [vimrcfu](http://vimrcfu.com/)
 * [vivify](http://bytefluent.com/devify/) - A ColorScheme Editor for Vim
 
+### Vim 8
+
+* [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
+
 ## Other
 
 * [spacemacs](http://spacemacs.org/) 

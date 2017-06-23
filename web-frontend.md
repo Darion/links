@@ -19,6 +19,11 @@
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate
 * [Material Kit](http://demos.creative-tim.com/material-kit/index.html) - A Badass Bootstrap UI Kit based on Material Design
 
+## Icons
+
+* [Feather](https://feathericons.com/)
+
 ## Other Libs
 
 * [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly. 
+
