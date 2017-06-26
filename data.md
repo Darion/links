@@ -14,6 +14,7 @@
 ## Other
 
 * [Datasketches](http://www.datasketch.es/)
+* [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
 
 ## Data Stories
 
