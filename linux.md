@@ -8,6 +8,8 @@
 * [ranger](http://ranger.nongnu.org/) is a console file manager with VI key bindings
 * [termbin](http://termbin.com/) - netcat your text to "terminal-based pastebin"
 * [fzf](https://github.com/junegunn/fzf) is a general-purpose command-line fuzzy finder
+* [notes](https://github.com/alphabetum/notes) - A git-backed, syncable, searchable command line note-taking tool in a single portable script.
+* [ti](http://ti.sharats.me/) - A silly simple time tracker
 
 ## vim
 

@@ -20,6 +20,7 @@
 * [knitpy](https://github.com/janschulz/knitpy) and [pystitch](https://pystitch.github.io/) - libs for writing reproducible reports in markdown
 * [cerberus](http://docs.python-cerberus.org/en/stable/) provides powerful yet simple and lightweight data validation functionality out of the box and is designed to be easily extensible, allowing for custom validation
 * [Retrace](http://d0ugal.github.io/retrace/) - Configurable, elegant retrying decorator
+* [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3
 
 
 ## CLI
