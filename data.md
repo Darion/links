@@ -10,6 +10,7 @@
 ## Courses
 
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) - A 1-week extensive survey of deep learning methods and applications
+* [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python)
 
 ## Other
 

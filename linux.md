@@ -10,16 +10,26 @@
 * [fzf](https://github.com/junegunn/fzf) is a general-purpose command-line fuzzy finder
 * [notes](https://github.com/alphabetum/notes) - A git-backed, syncable, searchable command line note-taking tool in a single portable script.
 * [ti](http://ti.sharats.me/) - A silly simple time tracker
+* [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 
 ## vim
 
 * [vimgifs](https://vimgifs.com/)
 * [vimrcfu](http://vimrcfu.com/)
 * [vivify](http://bytefluent.com/devify/) - A ColorScheme Editor for Vim
+* [vim-visual-star-search](https://github.com/nelstrom/vim-visual-star-search) - Start a * or # search from a visual block
+* [vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
+* [tpope-vim-abolish](https://github.com/tpope/tpope-vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
+* [vim-test](https://github.com/janko-m/vim-test) - Run your tests at the speed of thought
+* [vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: wisely add "end" in ruby, endfunction/endif/more in vim script, etc
+* [vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+* [vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: project configuration
+
 
 ### Vim 8
 
 * [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
+* [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 
 ## Other
 
@@ -38,3 +48,4 @@
 
 * [smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor.  Once done, your selection will be sent to standard output. Screencasts can be found in the Wiki
 * [green-recorder](https://github.com/green-project/green-recorder) - A simple yet functional desktop recorder for Linux systems.
+* [git-annex](https://git-annex.branchable.com/) allows managing files with git, without checking the file contents into git
