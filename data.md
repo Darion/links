@@ -6,6 +6,7 @@
 * [visidata](https://github.com/saulpw/visidata/) - A console spreadsheet tool for discovering and arranging data
 * [Pachyderm](https://www.pachyderm.io/) lets you store and analyze your data using containers
 * [Dat](https://datproject.org/) is the secure and distributed package manager for data
+* [deepgraph](https://github.com/deepgraph/deepgraph) - Analyze Data with Pandas-based Networks
 
 ## Courses
 

@@ -11,6 +11,7 @@
 * [notes](https://github.com/alphabetum/notes) - A git-backed, syncable, searchable command line note-taking tool in a single portable script.
 * [ti](http://ti.sharats.me/) - A silly simple time tracker
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+* [visidata](https://github.com/saulpw/visidata) - A console spreadsheet tool for discovering and arranging data
 
 ## vim
 

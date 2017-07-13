@@ -28,6 +28,7 @@
 
 * [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases
 * [ctop](http://ctop.sh/) - concise commandline monitoring for containers
+* [Hydrogen](https://nteract.io/atom) - Interactive Jupyter-like REPL inside Atom text editor
 
 ## Awesome Lists
 

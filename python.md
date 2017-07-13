@@ -4,6 +4,7 @@
 * [Planet Python](http://planetpython.org/)
 * [pyvideo](http://pyvideo.org/)
 * [Python Books](http://pythonbooks.revolunet.com/) - The best free Python resources
+* [pythonbooks.org](http://pythonbooks.org/) - categorized python books catalog
 * [Think Complexity](http://greenteapress.com/complexity/html/index.html) - book is about data structures and algorithms, intermediate programming in Python, computational modeling and the philosophy of science
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
