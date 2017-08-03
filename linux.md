@@ -12,6 +12,7 @@
 * [ti](http://ti.sharats.me/) - A silly simple time tracker
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 * [visidata](https://github.com/saulpw/visidata) - A console spreadsheet tool for discovering and arranging data
+* [asciinema](https://asciinema.org) - Record and share your terminal sessions
 
 ## vim
 
@@ -25,6 +26,8 @@
 * [vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: wisely add "end" in ruby, endfunction/endif/more in vim script, etc
 * [vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
 * [vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: project configuration
+* [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim) - Searching on the fly
+* [SpaceVim](https://spacevim.org/) is a community-driven vim distribution that seeks to provide layer feature, especially for neovim
 
 
 ### Vim 8
@@ -44,6 +47,10 @@
 * [automatron](https://github.com/madflojo/automatron) - Autonomous IT Systems Monitoring and Remediation
 * [restic](https://restic.github.io/) is a program that does backups right
 * [monit](https://mmonit.com/monit) - small open source utility for managig and monitoring Unix systems
+
+## WM
+
+* [Way Cooler](http://way-cooler.org/) is a tiling Wayland window manager, written in Rust, configurable using Lua, and extendable with D-Bus
 
 ## Inbox
 
