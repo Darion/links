@@ -2,9 +2,25 @@
 
 * [screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers
 
+## Writing
+
+* [Главред](https://glvrd.ru/) помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю. Есть API, js-библиотека.
+
 ## Reading
 
 * [On Generative Algorithms](http://inconvergent.net/generative/)
+
+## Work
+
+* [geektastic](https://geektastic.com/) - A platform that manages peer reviewed code challenges supported by a community of qualified software engineers. Engineers will be paid to review code challenge submissions.
+
+## Inspirations
+
+* [codedoodl.es](http://codedoodl.es) - is a showcase of curated creative coding sketches
+
+## Videogames
+
+* [Metal Gear Timeline](http://metalgeartimeline.com/)
 
 ## Other
 
@@ -16,4 +32,5 @@
 * [primitive](https://primitive.lol/), [github repo](http://inconvergent.net/generative/) - Reproducing images with geometric primitives. 
 * [joystick](https://github.com/ceyzeriat/joystick) provides a light-weight and simple framework to real-time data-plotting and logging, while the console remains accessible to manage the on-going simulation and data acquisition.
 * [markvis](https://markvis.js.org/) - Make visualization in markdown
-
+* [ngrok](https://ngrok.com) - Secure tunnels to localhost
+* [unroll.me](https://unroll.me/) - Instantly see a list of all your subscription emails. Unsubscribe easily from whatever you don’t want.

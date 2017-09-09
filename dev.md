@@ -15,6 +15,7 @@
 * [Gnarley Trees](https://people.ksp.sk/~kuko/gnarley-trees/) - projects focused on visualization of various tree data structures
 * [kite](https://kite.com) - smart autocompletion and documentation engine for python (more languages coming soon)
 * [Nature of Code](http://natureofcode.com/book/) - book about programming oscillation, particle systems, cellular automata, etc
+* [The Twelve-Factor App](https://12factor.net/)
 
 ## Reading
 
@@ -26,6 +27,7 @@
 ## Guides
 
 * [Open Source Guides](https://opensource.guide/)
+* [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 
 ## Tools
 
@@ -41,6 +43,9 @@
 ## Languages
 
 * [clojurecourse.by](http://clojurecourse.by/) - Курс Clojure на русском языке
+
+## Fun
+* [asiidots](https://github.com/aaronduino/asciidots) - The result of combining ascii art, electrical engineering, and programming
 
 ## Awesome Lists
 

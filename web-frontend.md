@@ -9,6 +9,7 @@
 * [Labella.js](http://twitter.github.io/labella.js/) - Placing labels on a timeline without overlap
 * [odometer](http://github.hubspot.com/odometer/) - Javascript and CSS library for smoothly transitioning numbers
 * [Dante II](https://michelson.github.io/dante2/) - medium-like WYSIWYG editor
+* [Timeline.js](http://timeline.knightlab.com/)
 
 ## CSS
 

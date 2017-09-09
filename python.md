@@ -22,6 +22,9 @@
 * [cerberus](http://docs.python-cerberus.org/en/stable/) provides powerful yet simple and lightweight data validation functionality out of the box and is designed to be easily extensible, allowing for custom validation
 * [Retrace](http://d0ugal.github.io/retrace/) - Configurable, elegant retrying decorator
 * [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3
+* [numba](http://numba.pydata.org/) gives you the power to speed up your applications with high performance functions written directly in Python
+* [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
+* [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python.
 
 
 ## CLI
@@ -48,6 +51,11 @@
 
 * [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) - Propertry based testing library
 
+## Debugging and Profiling
+
+* [pyheat](https://github.com/csurfer/pyheat) - profiling heatmaps
+* [pyheatmagic](https://github.com/csurfer/pyheatmagic) - pyheat as ipython magic
+
 ## Web
 
 * [webargs](http://webargs.readthedocs.io) - A friendly library for parsing HTTP request arguments
@@ -56,6 +64,7 @@
 * [awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 * [Nikola](https://getnikola.com/) - Static Site Generator
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+* [viewflow](http://viewflow.io) - Reusable workflow library for Django
 
 
 ## ORM
@@ -82,6 +91,7 @@
 * [Python wats](https://github.com/cosmologicon/pywat)
 * [Designing Modules in Python](https://hashedin.com/training/designing-modules-in-python-ebook/)
 * [The Many Layers of Packaging](http://sedimental.org/the_packaging_gradient.html) 
+* [Python Oddities](https://twitter.com/i/moments/871564334832304128)
 
 ## Awesome Lists
 

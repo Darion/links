@@ -13,6 +13,10 @@
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 * [visidata](https://github.com/saulpw/visidata) - A console spreadsheet tool for discovering and arranging data
 * [asciinema](https://asciinema.org) - Record and share your terminal sessions
+* [exa](https://the.exa.website/) is a modern replacement for `ls`
+* [musikcube](https://musikcube.com) is a fully functional terminal-based music player, library, and streaming audio server. There is also `musikdroid` app for android and `musikcore` library.
+* [tsrc](https://tankerapp.github.io/tsrc/) is a command-line tool that helps you manage several git repositories
+* [#rice](https://rizonrice.github.io/) - OS customization community
 
 ## vim
 
@@ -28,6 +32,7 @@
 * [vim-projectionist](https://github.com/tpope/vim-projectionist) - projectionist.vim: project configuration
 * [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim) - Searching on the fly
 * [SpaceVim](https://spacevim.org/) is a community-driven vim distribution that seeks to provide layer feature, especially for neovim
+* [goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 
 
 ### Vim 8
@@ -57,3 +62,7 @@
 * [smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor.  Once done, your selection will be sent to standard output. Screencasts can be found in the Wiki
 * [green-recorder](https://github.com/green-project/green-recorder) - A simple yet functional desktop recorder for Linux systems.
 * [git-annex](https://git-annex.branchable.com/) allows managing files with git, without checking the file contents into git
+
+## Awesome Lists
+
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
