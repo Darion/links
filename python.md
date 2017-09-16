@@ -33,6 +33,7 @@
 * [click](http://click.pocoo.org/) - is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary
 * [cmdtree](https://github.com/winkidney/cmdtree) - Yet another cli library , click-like but sub-command friendly and designed for cli auto-generating.
 * [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+* [lehar](http://darxtrix.in/lehar/) - Python library to generate sparklines ▁▂▄▅▇█ in your shell based upon relative ordering of data
 
 ## Inbox
 
@@ -45,7 +46,8 @@
 * [reprint](https://github.com/Yinzo/reprint) - A simple module for Python 2/3 to print and refresh multi line output contents in terminal
 * [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 * [Python cheatsheet](https://www.pythonsheets.com/) - This project tries to provide a lot of piece of Python code that makes life easier.
-
+* [lolviz](https://github.com/parrt/lolviz) - A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations
+* [plain_obj](https://github.com/suzaku/plain_obj) - A faster alternative to namedtuple.
 
 ## Testing
 
@@ -65,6 +67,7 @@
 * [Nikola](https://getnikola.com/) - Static Site Generator
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 * [viewflow](http://viewflow.io) - Reusable workflow library for Django
+* [yamdl](https://github.com/andrewgodwin/yamdl) - ORM-queryable YAML fixtures for Django
 
 
 ## ORM
@@ -76,6 +79,7 @@
 
 * [wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
 * [Bokeh](http://bokeh.pydata.org/en/latest/) is a Python interactive visualization library that targets modern web browsers for presentation 
+* [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is library to extract, transform, and visually explore big graphs
 
 ## Dev Tools
 
