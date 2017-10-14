@@ -1,6 +1,7 @@
 ## Javascript Reading Materials
 
 * [superhero.js](http://superherojs.com/) is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, etc.
+* [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 
 ## Javascript UI Libs
 

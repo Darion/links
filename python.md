@@ -34,6 +34,7 @@
 * [cmdtree](https://github.com/winkidney/cmdtree) - Yet another cli library , click-like but sub-command friendly and designed for cli auto-generating.
 * [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [lehar](http://darxtrix.in/lehar/) - Python library to generate sparklines ▁▂▄▅▇█ in your shell based upon relative ordering of data
+* [plumbum](https://plumbum.readthedocs.io/en/latest/) is a small yet feature-rich library for shell script-like programs in Python
 
 ## Inbox
 

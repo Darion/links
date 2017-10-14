@@ -16,6 +16,10 @@
 * [kite](https://kite.com) - smart autocompletion and documentation engine for python (more languages coming soon)
 * [Nature of Code](http://natureofcode.com/book/) - book about programming oscillation, particle systems, cellular automata, etc
 * [The Twelve-Factor App](https://12factor.net/)
+* [Mega Projects List](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language
+* [franchise](https://franchise.cloud) - an open-source notebook for sql
+* [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+
 
 ## Reading
 
