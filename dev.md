@@ -32,6 +32,7 @@
 
 * [Open Source Guides](https://opensource.guide/)
 * [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
+* [Flight rules for git](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using git) about what to do when things go wrong
 
 ## Tools
 
