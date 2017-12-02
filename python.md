@@ -81,6 +81,7 @@
 * [wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
 * [Bokeh](http://bokeh.pydata.org/en/latest/) is a Python interactive visualization library that targets modern web browsers for presentation 
 * [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is library to extract, transform, and visually explore big graphs
+* [Python Graph Gallery](https://python-graph-gallery.com/)
 
 ## Dev Tools
 
@@ -90,6 +91,8 @@
 * [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
 * [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
 * [pyup](https://pyup.io) - sends you automated pull requests with security updates for dependencies
+* [pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
+
 
 ## Reading Materials
 

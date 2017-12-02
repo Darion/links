@@ -34,3 +34,4 @@
 * [markvis](https://markvis.js.org/) - Make visualization in markdown
 * [ngrok](https://ngrok.com) - Secure tunnels to localhost
 * [unroll.me](https://unroll.me/) - Instantly see a list of all your subscription emails. Unsubscribe easily from whatever you don’t want.
+* [Arxiv Vanity](https://www.arxiv-vanity.com/) renders academic papers from Arxiv as responsive web pages so you don’t have to squint at a PDF

@@ -7,6 +7,7 @@
 
 * [pass-rotate](https://github.com/SirCmpwn/pass-rotate) - A tool and library for rotating your password on online services
 * [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
+* [thyme](http://hughbien.com/thyme/) - Pomodoro timer with tmux integration & pre/post hooks
 
 # Inbox
 

@@ -34,11 +34,14 @@
 * [SpaceVim](https://spacevim.org/) is a community-driven vim distribution that seeks to provide layer feature, especially for neovim
 * [goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 
-
 ### Vim 8
 
 * [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 * [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
+
+### Vim Books and Guides
+
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
 ## Other
 
@@ -46,12 +49,15 @@
 * [wtee](http://wtee.readthedocs.io/en/latest/) - Much like the unix tee utility, wtee duplicates standard input to standard output, while also making the piped data viewable on a web page
 * [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 * [Archlinux no DE install guide](http://nicholasglazer.github.io/arch-cheat-sheet/)
+* [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome way to create multiple tmux panes
+
 
 ## sysadm
 
 * [automatron](https://github.com/madflojo/automatron) - Autonomous IT Systems Monitoring and Remediation
 * [restic](https://restic.github.io/) is a program that does backups right
 * [monit](https://mmonit.com/monit) - small open source utility for managig and monitoring Unix systems
+* [cryfs](http://www.cryfs.org/) encrypts your files, so you can safely store them anywhere. It works well together with cloud services like Dropbox, iCloud, OneDrive and others.
 
 ## WM
 
@@ -66,3 +72,7 @@
 ## Awesome Lists
 
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
+
+## Reading
+
+* [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
