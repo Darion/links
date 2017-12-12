@@ -109,3 +109,4 @@
 * [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - None
 * [python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
 * [Curated list of courses on Python](http://bafflednerd.com/learn-python-online/)
+* [Awesome Python Talks](https://github.com/jhermann/awesome-python-talks)

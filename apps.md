@@ -13,3 +13,4 @@
 
 * [pocket-archive-stream](https://github.com/pirate/pocket-archive-stream) - Save an archived copy of all websites starred using Pocket. Outputs browseable html.
 * [loom](https://www.useloom.com/) - app for screencasting
+* [boostnote](https://boostnote.io/) - The note-taking app for programmers that focusing on markdown, snippet and customizability
