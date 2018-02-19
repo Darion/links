@@ -33,6 +33,11 @@
 * [Open Source Guides](https://opensource.guide/)
 * [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 * [Flight rules for git](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using git) about what to do when things go wrong
+* [Hacksplaining](https://www.hacksplaining.com/) - Security training for developers
+
+## Books
+
+* [Boaz Barak - Introduction to theoretical Computer Science](http://www.introtcs.org/public/lnotes_book.pdf)
 
 ## Tools
 
@@ -40,6 +45,8 @@
 * [ctop](http://ctop.sh/) - concise commandline monitoring for containers
 * [Hydrogen](https://nteract.io/atom) - Interactive Jupyter-like REPL inside Atom text editor
 * [coala](https://coala.io/) - linting and fixing code for all languages
+* [httbin](http://httpbin.org/) - HTTP Request & Response Service
+* [RequestBin](https://requestb.in/) gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.
 
 ## Color Schemes
 
@@ -56,3 +63,7 @@
 
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.
 * [Best Free Programming Books](https://www.toptal.com/software/toptal-s-list-of-top-free-programming-books?utm_source=changelog&utm_medium=email&utm_campaign=changelog-weekly)
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
+* [awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors) - List of OSS contributors willing to help others with their first pull requests!
+

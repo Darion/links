@@ -17,6 +17,7 @@
 
 * [Datasketches](http://www.datasketch.es/)
 * [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
+* [Poop.ai](https://poo.ai/) - 220 examples of artificial intelligence in action
 
 ## Data Stories
 

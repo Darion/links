@@ -25,6 +25,10 @@
 * [numba](http://numba.pydata.org/) gives you the power to speed up your applications with high performance functions written directly in Python
 * [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 * [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python.
+* [prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.6+
+* [enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
+* [fleep](https://github.com/floyernick/fleep) - File format determination library for Python
+* [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 
 
 ## CLI
@@ -49,6 +53,7 @@
 * [Python cheatsheet](https://www.pythonsheets.com/) - This project tries to provide a lot of piece of Python code that makes life easier.
 * [lolviz](https://github.com/parrt/lolviz) - A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations
 * [plain_obj](https://github.com/suzaku/plain_obj) - A faster alternative to namedtuple.
+* [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 
 ## Testing
 
@@ -69,6 +74,7 @@
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 * [viewflow](http://viewflow.io) - Reusable workflow library for Django
 * [yamdl](https://github.com/andrewgodwin/yamdl) - ORM-queryable YAML fixtures for Django
+* [Dash](https://plot.ly/dash/) is ideal for building data visualization apps with highly custom user interfaces in pure Python
 
 
 ## ORM
@@ -90,6 +96,7 @@
 * [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
 * [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
 * [pyup](https://pyup.io) - sends you automated pull requests with security updates for dependencies
+* [Pipenv](https://docs.pipenv.org/) - Python Dev Workflow for Humans
 
 ## Reading Materials
 
@@ -97,6 +104,10 @@
 * [Designing Modules in Python](https://hashedin.com/training/designing-modules-in-python-ebook/)
 * [The Many Layers of Packaging](http://sedimental.org/the_packaging_gradient.html) 
 * [Python Oddities](https://twitter.com/i/moments/871564334832304128)
+
+## Books
+
+* [A Python Book: Beginning Python, Advanced Python, and Python Exercises](http://www.davekuhlman.org/python_book_01.html)
 
 ## Awesome Lists
 

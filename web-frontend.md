@@ -11,6 +11,7 @@
 * [odometer](http://github.hubspot.com/odometer/) - Javascript and CSS library for smoothly transitioning numbers
 * [Dante II](https://michelson.github.io/dante2/) - medium-like WYSIWYG editor
 * [Timeline.js](http://timeline.knightlab.com/)
+* [muuri](https://haltu.github.io/muuri/) - Responsive, sortable, filterable and draggable grid layouts
 
 ## CSS
 
