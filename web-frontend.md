@@ -29,6 +29,7 @@
 ## Icons
 
 * [Feather](https://feathericons.com/)
+* [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos 
 
 ## Other Libs
 

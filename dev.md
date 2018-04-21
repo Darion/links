@@ -27,6 +27,7 @@
 * [dev-books](http://dev-books.com) - books, most recommended on stackoverflow
 * [100 days of algorythms](https://medium.com/100-days-of-algorithms)
 * [Papers We Love](http://paperswelove.org/) - is a [repository](https://github.com/papers-we-love/papers-we-love) of academic computer science papers and a community who loves reading them
+* [The Book of Shaders](https://thebookofshaders.com/) is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 
 ## Guides
 
@@ -55,6 +56,7 @@
 ## Languages
 
 * [clojurecourse.by](http://clojurecourse.by/) - Курс Clojure на русском языке
+* [Hyperpolyglot](http://hyperpolyglot.org/) - commonly used features of programmin languages and tools in a side-by-side format
 
 ## Fun
 * [asiidots](https://github.com/aaronduino/asciidots) - The result of combining ascii art, electrical engineering, and programming

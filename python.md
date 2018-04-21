@@ -87,6 +87,7 @@
 * [wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
 * [Bokeh](http://bokeh.pydata.org/en/latest/) is a Python interactive visualization library that targets modern web browsers for presentation 
 * [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is library to extract, transform, and visually explore big graphs
+* [Python Graph Gallery](https://python-graph-gallery.com/)
 
 ## Dev Tools
 
@@ -97,6 +98,7 @@
 * [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
 * [pyup](https://pyup.io) - sends you automated pull requests with security updates for dependencies
 * [Pipenv](https://docs.pipenv.org/) - Python Dev Workflow for Humans
+* [pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 
 ## Reading Materials
 
@@ -117,3 +119,4 @@
 * [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - None
 * [python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
 * [Curated list of courses on Python](http://bafflednerd.com/learn-python-online/)
+* [Awesome Python Talks](https://github.com/jhermann/awesome-python-talks)

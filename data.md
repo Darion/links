@@ -13,6 +13,10 @@
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) - A 1-week extensive survey of deep learning methods and applications
 * [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python)
 
+## Reading
+
+* [Notes on Artificial Intelligence by Francis Tseng](http://frnsys.com/ai_notes/)
+
 ## Other
 
 * [Datasketches](http://www.datasketch.es/)

@@ -11,8 +11,10 @@
 * [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [markdown terminal viewer](https://github.com/axiros/terminal_markdown_viewer)
 * [bol](https://github.com/schollz/bol) - Command-line and web journal that stays synchronized and encrypted across devices
+* [thyme](http://hughbien.com/thyme/) - Pomodoro timer with tmux integration & pre/post hooks
 
 # Inbox
 
 * [pocket-archive-stream](https://github.com/pirate/pocket-archive-stream) - Save an archived copy of all websites starred using Pocket. Outputs browseable html.
 * [loom](https://www.useloom.com/) - app for screencasting
+* [boostnote](https://boostnote.io/) - The note-taking app for programmers that focusing on markdown, snippet and customizability

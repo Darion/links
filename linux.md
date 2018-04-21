@@ -35,11 +35,14 @@
 * [goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 
-
 ### Vim 8
 
 * [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 * [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
+
+### Vim Books and Guides
+
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
 ## Other
 
@@ -47,6 +50,8 @@
 * [wtee](http://wtee.readthedocs.io/en/latest/) - Much like the unix tee utility, wtee duplicates standard input to standard output, while also making the piped data viewable on a web page
 * [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 * [Archlinux no DE install guide](http://nicholasglazer.github.io/arch-cheat-sheet/)
+* [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome way to create multiple tmux panes
+
 
 ## sysadm
 
@@ -55,6 +60,7 @@
 * [monit](https://mmonit.com/monit) - small open source utility for managig and monitoring Unix systems
 * [mosh](https://mosh.org/) - Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
 * [osquery](https://osquery.readthedocs.io/en/stable/) is an operating system instrumentation framework for Windows, OS X (macOS), Linux, and FreeBSD. The tools make low-level operating system analytics and monitoring both performant and intuitive. It exposes an operating system as a high-performance relational database. 
+* [cryfs](http://www.cryfs.org/) encrypts your files, so you can safely store them anywhere. It works well together with cloud services like Dropbox, iCloud, OneDrive and others.
 
 ## WM
 
@@ -72,7 +78,13 @@
 * [#rice](https://rizonrice.github.io/) - OS customization community
 * [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX, IRIX , FreeMint, and Windows (Cygwin/MSYS2/MinGW/Windows 10 Linux subsystem)
 * [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3.
+* [wpgtk](https://github.com/deviantfero/wpgtk) - wpgtk is a universal colorscheme, wallpaper and template manager writen in python
+* [terminal.sexy](http://terminal.sexy) - Terminal color scheme designer
 
 ## Awesome Lists
 
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
+
+## Reading
+
+* [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
