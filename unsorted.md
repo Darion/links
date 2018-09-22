@@ -37,4 +37,5 @@
 * [tmate.io](https://tmate.io) - Instant terminal sharing
 * [tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 * [Arxiv Vanity](https://www.arxiv-vanity.com/) renders academic papers from Arxiv as responsive web pages so you don’t have to squint at a PDF
-
+* [circuitjs](https://www.falstad.com/circuit/circuitjs.html) - Electric curcuits emulator
+* [Open Simple LIDAR](https://hackaday.io/project/20628-open-simple-lidar)

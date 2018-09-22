@@ -39,6 +39,7 @@
 * [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [lehar](http://darxtrix.in/lehar/) - Python library to generate sparklines ▁▂▄▅▇█ in your shell based upon relative ordering of data
 * [plumbum](https://plumbum.readthedocs.io/en/latest/) is a small yet feature-rich library for shell script-like programs in Python
+* [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 
 ## Inbox
 
@@ -99,6 +100,7 @@
 * [pyup](https://pyup.io) - sends you automated pull requests with security updates for dependencies
 * [Pipenv](https://docs.pipenv.org/) - Python Dev Workflow for Humans
 * [pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
+* [black](https://github.com/ambv/black) - The uncompromising Python code formatter
 
 ## Reading Materials
 
@@ -106,6 +108,8 @@
 * [Designing Modules in Python](https://hashedin.com/training/designing-modules-in-python-ebook/)
 * [The Many Layers of Packaging](http://sedimental.org/the_packaging_gradient.html) 
 * [Python Oddities](https://twitter.com/i/moments/871564334832304128)
+* [Essential Reads for Any Python Programmer](http://notesbyanerd.com/2017/12/29/essential-reads-for-any-python-programmer/)
+
 
 ## Books
 

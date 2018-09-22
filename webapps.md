@@ -5,6 +5,7 @@
 * [Mattermost](https://www.mattermost.org/) is an open source, self-hosted Slack-alternative
 * [Streama](http://dularion.github.io/streama/) - open source media management and streaming service
 * [Lola](https://lolashare.com/) - A free and decentralized peer to peer network for sharing and discovering music
+* [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 
 ## Services
 
@@ -12,6 +13,13 @@
 * [telegra.ph](http://telegra.ph) - minimalistic anonymous stories publishing
 * [carbon](https://carbon.now.sh) - Create and share beautiful images of your source code
 * [asciiflow](http://asciiflow.com/) - ASCII diagram drawing tool
+* [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
+* [visualping](https://visualping.io/) - Web page changes monitoring
+
+## API
+
+ * [OMDb API](http://www.omdbapi.com/) - RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.
+
 
 ## Other
 

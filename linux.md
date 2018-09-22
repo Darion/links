@@ -16,6 +16,8 @@
 * [exa](https://the.exa.website/) is a modern replacement for `ls`
 * [musikcube](https://musikcube.com) is a fully functional terminal-based music player, library, and streaming audio server. There is also `musikdroid` app for android and `musikcore` library.
 * [tsrc](https://tankerapp.github.io/tsrc/) is a command-line tool that helps you manage several git repositories
+* [smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor.  Once done, your selection will be sent to standard output. More in the Wiki
+* [xonsh](https://xon.sh) is a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 
 
 ## vim
@@ -34,6 +36,8 @@
 * [SpaceVim](https://spacevim.org/) is a community-driven vim distribution that seeks to provide layer feature, especially for neovim
 * [goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
+* [vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
+* [vim-galore](https://github.com/mhinz/vim-galore) - Just another vim book
 
 ### Vim 8
 
@@ -61,6 +65,7 @@
 * [mosh](https://mosh.org/) - Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
 * [osquery](https://osquery.readthedocs.io/en/stable/) is an operating system instrumentation framework for Windows, OS X (macOS), Linux, and FreeBSD. The tools make low-level operating system analytics and monitoring both performant and intuitive. It exposes an operating system as a high-performance relational database. 
 * [cryfs](http://www.cryfs.org/) encrypts your files, so you can safely store them anywhere. It works well together with cloud services like Dropbox, iCloud, OneDrive and others.
+* [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 
 ## WM
 
@@ -72,6 +77,9 @@
 * [green-recorder](https://github.com/green-project/green-recorder) - A simple yet functional desktop recorder for Linux systems.
 * [git-annex](https://git-annex.branchable.com/) allows managing files with git, without checking the file contents into git
 * [TLDR pages](http://tldr.sh/) - Simplified and community-driven man pages
+* [flatpak](https://flatpak.org/) is a next-generation technology for building and distributing desktop applications on Linux
+Delivery
+
 
 ## Ricing
 
@@ -84,6 +92,7 @@
 ## Awesome Lists
 
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
+* [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 
 ## Reading
 

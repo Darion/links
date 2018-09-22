@@ -34,6 +34,7 @@
 ## Other Libs
 
 * [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly. 
+* [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 
 ## Awesome Lists
 

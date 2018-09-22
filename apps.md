@@ -12,9 +12,16 @@
 * [markdown terminal viewer](https://github.com/axiros/terminal_markdown_viewer)
 * [bol](https://github.com/schollz/bol) - Command-line and web journal that stays synchronized and encrypted across devices
 * [thyme](http://hughbien.com/thyme/) - Pomodoro timer with tmux integration & pre/post hooks
+* [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat #npm
+* [termtosvg](https://nbedos.github.io/termtosvg/) - is a Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
+* [terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images
+* [browsh](https://www.brow.sh) is a fully-modern text-based browser
+* [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
+
 
 # Inbox
 
 * [pocket-archive-stream](https://github.com/pirate/pocket-archive-stream) - Save an archived copy of all websites starred using Pocket. Outputs browseable html.
 * [loom](https://www.useloom.com/) - app for screencasting
 * [boostnote](https://boostnote.io/) - The note-taking app for programmers that focusing on markdown, snippet and customizability
+* [cheat.sh](https://cheat.sh/) - The only cheat sheet you need (curl-based)

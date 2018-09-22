@@ -35,6 +35,7 @@
 * [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 * [Flight rules for git](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using git) about what to do when things go wrong
 * [Hacksplaining](https://www.hacksplaining.com/) - Security training for developers
+* [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 
 ## Books
 
@@ -48,6 +49,7 @@
 * [coala](https://coala.io/) - linting and fixing code for all languages
 * [httbin](http://httpbin.org/) - HTTP Request & Response Service
 * [RequestBin](https://requestb.in/) gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.
+* [gitleaks](https://github.com/zricethezav/gitleaks) -  Audit git repos for secrets
 
 ## Color Schemes
 
@@ -61,6 +63,10 @@
 ## Fun
 * [asiidots](https://github.com/aaronduino/asciidots) - The result of combining ascii art, electrical engineering, and programming
 
+## Competitions
+
+* [Pommerman](https://www.pommerman.com/) - Train your team of AI agents in bomberman-like game
+
 ## Awesome Lists
 
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.
@@ -68,4 +74,7 @@
 * [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 * [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
 * [awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors) - List of OSS contributors willing to help others with their first pull requests!
+* [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
+* [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - Awesome Developers, Streaming
+
 
