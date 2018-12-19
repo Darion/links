@@ -109,6 +109,7 @@
 * [The Many Layers of Packaging](http://sedimental.org/the_packaging_gradient.html) 
 * [Python Oddities](https://twitter.com/i/moments/871564334832304128)
 * [Essential Reads for Any Python Programmer](http://notesbyanerd.com/2017/12/29/essential-reads-for-any-python-programmer/)
+* [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
 
 
 ## Books

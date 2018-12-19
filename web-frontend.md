@@ -30,6 +30,7 @@
 
 * [Feather](https://feathericons.com/)
 * [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos 
+* [Eva Icons](https://akveo.github.io/eva-icons/#/) is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 
 ## Other Libs
 
@@ -39,3 +40,4 @@
 ## Awesome Lists
 
 * [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
+* [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit

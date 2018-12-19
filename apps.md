@@ -2,6 +2,7 @@
 
 * [WMail](https://thomas101.github.io/wmail/) - The missing desktop client for Gmail & Google Inbox
 * [Cerebro](https://cerebroapp.com) - search-everything app, based on electron
+* [Buttercup](https://buttercup.pw/) - modern open source password manager
 
 # CLI
 
@@ -17,6 +18,7 @@
 * [terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images
 * [browsh](https://www.brow.sh) is a fully-modern text-based browser
 * [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
+* [Micro](https://micro-editor.github.io/index.html) - a modern and intuitive terminal-based text editor
 
 
 # Inbox

@@ -47,6 +47,7 @@
 ### Vim Books and Guides
 
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Vimways](https://vimways.org/)
 
 ## Other
 
