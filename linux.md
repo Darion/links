@@ -18,6 +18,8 @@
 * [tsrc](https://tankerapp.github.io/tsrc/) is a command-line tool that helps you manage several git repositories
 * [smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor.  Once done, your selection will be sent to standard output. More in the Wiki
 * [xonsh](https://xon.sh) is a Python-powered, cross-platform, Unix-gazing shell language and command prompt
+* [bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
+>>>>>>> Stashed changes
 
 
 ## vim
@@ -43,6 +45,7 @@
 
 * [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 * [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
+* [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 
 ### Vim Books and Guides
 
@@ -89,11 +92,18 @@ Delivery
 * [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3.
 * [wpgtk](https://github.com/deviantfero/wpgtk) - wpgtk is a universal colorscheme, wallpaper and template manager writen in python
 * [terminal.sexy](http://terminal.sexy) - Terminal color scheme designer
+* [dotshare.it](http://dotshare.it/)
+
+## WM Tools
+
+* [dunst](https://dunst-project.org/) is a lightweight replacement for the notification-daemons provided by most desktop environments
+
 
 ## Awesome Lists
 
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
 * [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes
 
 ## Reading
 

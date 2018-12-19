@@ -19,6 +19,7 @@
 * [browsh](https://www.brow.sh) is a fully-modern text-based browser
 * [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 * [Micro](https://micro-editor.github.io/index.html) - a modern and intuitive terminal-based text editor
+* [nnn](https://github.com/jarun/nnn) - The fastest terminal file manager ever written.
 
 
 # Inbox
@@ -27,3 +28,4 @@
 * [loom](https://www.useloom.com/) - app for screencasting
 * [boostnote](https://boostnote.io/) - The note-taking app for programmers that focusing on markdown, snippet and customizability
 * [cheat.sh](https://cheat.sh/) - The only cheat sheet you need (curl-based)
+* [Standard Notes](https://standardnotes.org/)

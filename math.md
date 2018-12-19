@@ -1,6 +1,7 @@
 # Math
 
 * [immersivemath](http://immersivemath.com) - linear algebra book with fully interactive figures
+* [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/) - Learn graph theory interactively
 
 # Tools
 

@@ -40,6 +40,7 @@
 * [lehar](http://darxtrix.in/lehar/) - Python library to generate sparklines ▁▂▄▅▇█ in your shell based upon relative ordering of data
 * [plumbum](https://plumbum.readthedocs.io/en/latest/) is a small yet feature-rich library for shell script-like programs in Python
 * [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
+* [pygrape](https://github.com/Leviathan1995/pygrape) - pygrape is a python library for updating terminal output in realtime
 
 ## Inbox
 
@@ -101,6 +102,8 @@
 * [Pipenv](https://docs.pipenv.org/) - Python Dev Workflow for Humans
 * [pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 * [black](https://github.com/ambv/black) - The uncompromising Python code formatter
+* [rope](https://github.com/python-rope/rope) - a python refactoring library
+* [Pyre](https://pyre-check.org/) - A performant typechecker for Python
 
 ## Reading Materials
 

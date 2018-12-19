@@ -22,6 +22,10 @@
 
 * [Metal Gear Timeline](http://metalgeartimeline.com/)
 
+## Medicince
+
+* (ru)[Encyclopatia](http://encyclopatia.ru/wiki/Welcome) - Любительская медицинская энциклопедия, написанная простым языком
+
 ## Other
 
 * [hotel](https://github.com/typicode/hotel) - A simple process manager for developers. Start apps from your browser and access them using local .dev domains

@@ -28,6 +28,9 @@
 * [100 days of algorythms](https://medium.com/100-days-of-algorithms)
 * [Papers We Love](http://paperswelove.org/) - is a [repository](https://github.com/papers-we-love/papers-we-love) of academic computer science papers and a community who loves reading them
 * [The Book of Shaders](https://thebookofshaders.com/) is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/) - Writing a sqlite clone from scratch in C
+* [Writing Great Documentation](https://jacobian.org/writing/great-documentation/)
+* [UTC is Enough for Everyone, Right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 
 ## Guides
 
@@ -36,6 +39,8 @@
 * [Flight rules for git](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using git) about what to do when things go wrong
 * [Hacksplaining](https://www.hacksplaining.com/) - Security training for developers
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+* [SQL Injection Wiki](https://sqlwiki.netspi.com/)
+* [Fear of Macros: A practical guide to Racket macros](http://www.greghendershott.com/fear-of-macros/)
 
 ## Books
 
@@ -51,15 +56,18 @@
 * [RequestBin](https://requestb.in/) gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.
 * [gitleaks](https://github.com/zricethezav/gitleaks) -  Audit git repos for secrets
 * [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
+* [Gitea](https://gitea.io/) is a community managed fork of Gogs, lightweight code hosting solution written in Go
 
 ## Color Schemes
 
 * [nova](https://trevordmiller.com/projects/nova) - a color scheme for modern web development
+* [base16](http://chriskempson.com/projects/base16/) - An architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colours
 
 ## Languages
 
 * [clojurecourse.by](http://clojurecourse.by/) - Курс Clojure на русском языке
 * [Hyperpolyglot](http://hyperpolyglot.org/) - commonly used features of programmin languages and tools in a side-by-side format
+* [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 ## Fun
 * [asiidots](https://github.com/aaronduino/asciidots) - The result of combining ascii art, electrical engineering, and programming
@@ -77,5 +85,5 @@
 * [awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors) - List of OSS contributors willing to help others with their first pull requests!
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - Awesome Developers, Streaming
-
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here)
 
