@@ -8,6 +8,7 @@
 * [Dat](https://datproject.org/) is the secure and distributed package manager for data
 * [deepgraph](https://github.com/deepgraph/deepgraph) - Analyze Data with Pandas-based Networks
 * [OpenGraphiti](http://www.opengraphiti.com/) is a free and open source 3D data visualization engine for data scientists to visualize semantic networks and to work with them.
+* [mpld3](https://mpld3.github.io/index.html) brings together Matplotlib, the popular Python-based graphing library, and D3js, the popular JavaScript library for creating interactive data visualizations for the web
 
 ## Courses
 
