@@ -8,6 +8,9 @@
 * [Dat](https://datproject.org/) is the secure and distributed package manager for data
 * [deepgraph](https://github.com/deepgraph/deepgraph) - Analyze Data with Pandas-based Networks
 * [OpenGraphiti](http://www.opengraphiti.com/) is a free and open source 3D data visualization engine for data scientists to visualize semantic networks and to work with them.
+* [beakerx](http://beakerx.com/) is a collection of kernels and extensions to the Jupyter interactive computing environment
+* [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks
+* [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 
 ## Courses
 

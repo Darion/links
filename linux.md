@@ -19,7 +19,9 @@
 * [smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor.  Once done, your selection will be sent to standard output. More in the Wiki
 * [xonsh](https://xon.sh) is a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
->>>>>>> Stashed changes
+* [entr](http://eradman.com/entrproject/) - Run arbitrary commands when files change
+* [calcurse](https://calcurse.org/) is a calendar and scheduling application for the command line
+* [khal](https://github.com/pimutils/khal) - CLI calendar application
 
 
 ## vim
@@ -40,6 +42,7 @@
 * [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 * [vim-galore](https://github.com/mhinz/vim-galore) - Just another vim book
+* [vimcolors](https://vimcolors.com/)
 
 ### Vim 8
 
