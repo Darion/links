@@ -42,6 +42,8 @@
 * [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 * [vim-galore](https://github.com/mhinz/vim-galore) - Just another vim book
+* [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
+* [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 * [vimcolors](https://vimcolors.com/)
 
 ### Vim 8
