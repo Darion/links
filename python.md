@@ -29,6 +29,7 @@
 * [enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
 * [fleep](https://github.com/floyernick/fleep) - File format determination library for Python
 * [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
+* [ring](https://ring-cache.readthedocs.io/en/stable/) provides function-oriented cache interface for various backends. Other languages supported
 
 
 ## CLI
@@ -56,6 +57,7 @@
 * [lolviz](https://github.com/parrt/lolviz) - A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations
 * [plain_obj](https://github.com/suzaku/plain_obj) - A faster alternative to namedtuple.
 * [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+* [dry-python](https://dry-python.org/) - A set of libraries for pluggable business logic components.
 
 ## Testing
 
@@ -65,6 +67,8 @@
 
 * [pyheat](https://github.com/csurfer/pyheat) - profiling heatmaps
 * [pyheatmagic](https://github.com/csurfer/pyheatmagic) - pyheat as ipython magic
+* [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python
+* [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 
 ## Web
 
@@ -128,3 +132,4 @@
 * [python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
 * [Curated list of courses on Python](http://bafflednerd.com/learn-python-online/)
 * [Awesome Python Talks](https://github.com/jhermann/awesome-python-talks)
+* [Awesome Python Security](https://github.com/guardrailsio/awesome-python-security)

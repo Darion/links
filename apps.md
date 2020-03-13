@@ -3,6 +3,7 @@
 * [WMail](https://thomas101.github.io/wmail/) - The missing desktop client for Gmail & Google Inbox
 * [Cerebro](https://cerebroapp.com) - search-everything app, based on electron
 * [Buttercup](https://buttercup.pw/) - modern open source password manager
+* [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 
 # CLI
 
@@ -20,6 +21,13 @@
 * [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 * [Micro](https://micro-editor.github.io/index.html) - a modern and intuitive terminal-based text editor
 * [nnn](https://github.com/jarun/nnn) - The fastest terminal file manager ever written.
+* [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+* [castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+
+# Utils
+
+* [pngquant](https://pngquant.org/) is a command-line utility and a library for lossy compression of PNG images.
+* [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
 
 
 # Inbox
@@ -29,3 +37,8 @@
 * [boostnote](https://boostnote.io/) - The note-taking app for programmers that focusing on markdown, snippet and customizability
 * [cheat.sh](https://cheat.sh/) - The only cheat sheet you need (curl-based)
 * [Standard Notes](https://standardnotes.org/)
+* [Canto](https://codezen.org/canto-ng/) is an Atom/RSS feed reader for the console that is meant to be quick, concise, and colorful
+* [foliate](https://johnfactotum.github.io/foliate/) - A simple and modern eBook viewer
+* [zettr](https://www.zettlr.com/) - Markdown Editor for Writers and Researchers
+
+

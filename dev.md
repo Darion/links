@@ -20,6 +20,8 @@
 * [Mega Projects List](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language
 * [franchise](https://franchise.cloud) - an open-source notebook for sql
 * [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+* [nicedoc.io](https://nicedoc.io/) - Instant beautiful documentation for any github.com repository.
+* [realworld](https://github.com/gothinkster/realworld) — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 
 ## Reading
@@ -42,6 +44,7 @@
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 * [SQL Injection Wiki](https://sqlwiki.netspi.com/)
 * [Fear of Macros: A practical guide to Racket macros](http://www.greghendershott.com/fear-of-macros/)
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## Books
 
@@ -69,6 +72,9 @@
 * [clojurecourse.by](http://clojurecourse.by/) - Курс Clojure на русском языке
 * [Hyperpolyglot](http://hyperpolyglot.org/) - commonly used features of programmin languages and tools in a side-by-side format
 * [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+* [Rust One Page Cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
+* [Rust Language Cheatsheet](https://cheats.rs/)
+* [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html)
 
 ## Fun
 * [asiidots](https://github.com/aaronduino/asciidots) - The result of combining ascii art, electrical engineering, and programming
@@ -76,6 +82,16 @@
 ## Competitions
 
 * [Pommerman](https://www.pommerman.com/) - Train your team of AI agents in bomberman-like game
+
+## Pastebins
+
+### CLI Pastebins
+
+* [sprunge](http://sprunge.us/)
+* [clibin](https://clbin.com/)
+* [vpaste](vpaste.net)
+* [ix.io](http://ix.io/)
+* [termbin](https://termbin.com/)
 
 ## Awesome Lists
 
