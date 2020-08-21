@@ -22,7 +22,7 @@
 * [entr](http://eradman.com/entrproject/) - Run arbitrary commands when files change
 * [calcurse](https://calcurse.org/) is a calendar and scheduling application for the command line
 * [khal](https://github.com/pimutils/khal) - CLI calendar application
-
+* [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager
 
 ## vim
 
@@ -45,6 +45,7 @@
 * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 * [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 * [vimcolors](https://vimcolors.com/)
+* [vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 
 ### Vim 8
 
@@ -98,6 +99,7 @@ Delivery
 * [wpgtk](https://github.com/deviantfero/wpgtk) - wpgtk is a universal colorscheme, wallpaper and template manager writen in python
 * [terminal.sexy](http://terminal.sexy) - Terminal color scheme designer
 * [dotshare.it](http://dotshare.it/)
+* [trueline](https://github.com/petobens/trueline) - Bash Powerline Style Prompt with True Color Support
 
 ## WM Tools
 
@@ -109,6 +111,7 @@ Delivery
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
 * [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes
+* [Terminals are Sexy](https://terminalsare.sexy/) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 ## Reading
 

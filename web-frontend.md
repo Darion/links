@@ -36,6 +36,7 @@
 
 * [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly. 
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
+* [klipse](https://github.com/viebel/klipse) - Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp
 
 ## Awesome Lists
 

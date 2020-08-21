@@ -6,6 +6,7 @@
 * [Streama](http://dularion.github.io/streama/) - open source media management and streaming service
 * [Lola](https://lolashare.com/) - A free and decentralized peer to peer network for sharing and discovering music
 * [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
+* [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 
 ## Services
 

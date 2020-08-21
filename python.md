@@ -104,6 +104,7 @@
 * [black](https://github.com/ambv/black) - The uncompromising Python code formatter
 * [rope](https://github.com/python-rope/rope) - a python refactoring library
 * [Pyre](https://pyre-check.org/) - A performant typechecker for Python
+* [pyright](https://github.com/microsoft/pyright) - Static type checker for Python from Microsoft with VS Code extenstion. Vim extenstion [coc-pyright](https://github.com/fannheyward/coc-pyright) can be installed separately.
 
 ## Reading Materials
 
