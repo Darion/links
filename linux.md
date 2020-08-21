@@ -39,11 +39,17 @@
 * [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim) - Searching on the fly
 * [SpaceVim](https://spacevim.org/) is a community-driven vim distribution that seeks to provide layer feature, especially for neovim
 * [goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
+* [limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 * [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 * [vim-galore](https://github.com/mhinz/vim-galore) - Just another vim book
 * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
-* [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
+* [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim 
+* [committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
+* [jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
+* [traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
+* [vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
+* [fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 * [vimcolors](https://vimcolors.com/)
 * [vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 
@@ -90,6 +96,11 @@
 * [flatpak](https://flatpak.org/) is a next-generation technology for building and distributing desktop applications on Linux
 Delivery
 
+# Shell prompts
+
+* [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
+* [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+* [lean](https://github.com/miekg/lean) - Pretty, minimal, one-line, fast ZSH prompt
 
 ## Ricing
 
@@ -100,6 +111,7 @@ Delivery
 * [terminal.sexy](http://terminal.sexy) - Terminal color scheme designer
 * [dotshare.it](http://dotshare.it/)
 * [trueline](https://github.com/petobens/trueline) - Bash Powerline Style Prompt with True Color Support
+* [Superpaper](https://github.com/hhannine/Superpaper) - A cross-platform multi monitor wallpaper manager.
 
 ## WM Tools
 
@@ -112,6 +124,7 @@ Delivery
 * [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes
 * [Terminals are Sexy](https://terminalsare.sexy/) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros. 
 
 ## Reading
 

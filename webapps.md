@@ -16,6 +16,7 @@
 * [asciiflow](http://asciiflow.com/) - ASCII diagram drawing tool
 * [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 * [visualping](https://visualping.io/) - Web page changes monitoring
+* [ix.io](ix.io) - Command line pastebin
 
 ## API
 
