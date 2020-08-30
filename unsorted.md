@@ -1,4 +1,4 @@
-# Programming games
+## Programming games
 
 * [screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers
 
@@ -43,3 +43,9 @@
 * [Arxiv Vanity](https://www.arxiv-vanity.com/) renders academic papers from Arxiv as responsive web pages so you don’t have to squint at a PDF
 * [circuitjs](https://www.falstad.com/circuit/circuitjs.html) - Electric curcuits emulator
 * [Open Simple LIDAR](https://hackaday.io/project/20628-open-simple-lidar)
+* [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX
+* [MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* [Xournal++](https://github.com/xournalpp/xournalpp) is a hand note taking software written in C++ with the target of flexibility, functionality and speed
+* [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://fs.blog/mental-models/)
+* [lyrebird](https://github.com/chxrlt/lyrebird) - Simple and powerful voice changer for Linux, written in GTK 3.
+* [MuscleWiki](https://musclewiki.com)

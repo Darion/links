@@ -109,6 +109,9 @@
 * [rope](https://github.com/python-rope/rope) - a python refactoring library
 * [Pyre](https://pyre-check.org/) - A performant typechecker for Python
 * [pyright](https://github.com/microsoft/pyright) - Static type checker for Python from Microsoft with VS Code extenstion. Vim extenstion [coc-pyright](https://github.com/fannheyward/coc-pyright) can be installed separately.
+* [pytype](https://github.com/google/pytype) - static type analyzer from Google
+* [nbQA](https://github.com/nbQA-dev/nbQA) - Adapter to run any code-quality tool on a Jupyter notebook. This is intended to be run as a pre-commit hook and/or during continuous integration.
+* [pysa](https://engineering.fb.com/security/pysa/): Open Source static analysis for Python code - Facebook Engineering
 
 ## Reading Materials
 
@@ -118,6 +121,7 @@
 * [Python Oddities](https://twitter.com/i/moments/871564334832304128)
 * [Essential Reads for Any Python Programmer](http://notesbyanerd.com/2017/12/29/essential-reads-for-any-python-programmer/)
 * [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
+* [Python libraries to make your code readable, reliable and maintainable](https://isaak.dev/2020/08/python-libraries-to-make-your-code-readable-and-maintainable#testing-frameworks)
 
 
 ## Books

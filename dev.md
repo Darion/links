@@ -61,6 +61,7 @@
 * [gitleaks](https://github.com/zricethezav/gitleaks) -  Audit git repos for secrets
 * [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 * [Gitea](https://gitea.io/) is a community managed fork of Gogs, lightweight code hosting solution written in Go
+* [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively. Powered by fzf.
 
 ## Color Schemes
 

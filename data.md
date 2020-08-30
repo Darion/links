@@ -12,6 +12,7 @@
 * [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks
 * [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 * [mpld3](https://mpld3.github.io/index.html) brings together Matplotlib, the popular Python-based graphing library, and D3js, the popular JavaScript library for creating interactive data visualizations for the web
+* [streamlit](https://www.streamlit.io/)
 
 ## Courses
 
