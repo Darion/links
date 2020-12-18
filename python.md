@@ -69,6 +69,7 @@
 * [pyheatmagic](https://github.com/csurfer/pyheatmagic) - pyheat as ipython magic
 * [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python
 * [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
+* [filprofiler](https://github.com/pythonspeed/filprofiler) - A Python memory profiler for data processing and scientific computing applications
 
 ## Web
 
@@ -112,6 +113,7 @@
 * [pytype](https://github.com/google/pytype) - static type analyzer from Google
 * [nbQA](https://github.com/nbQA-dev/nbQA) - Adapter to run any code-quality tool on a Jupyter notebook. This is intended to be run as a pre-commit hook and/or during continuous integration.
 * [pysa](https://engineering.fb.com/security/pysa/): Open Source static analysis for Python code - Facebook Engineering
+* [inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
 
 ## Reading Materials
 

@@ -13,6 +13,7 @@
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 * [visidata](https://github.com/saulpw/visidata) - A console spreadsheet tool for discovering and arranging data
 * [asciinema](https://asciinema.org) - Record and share your terminal sessions
+* [showterm](https://showterm.io) - asciinema alternative
 * [exa](https://the.exa.website/) is a modern replacement for `ls`
 * [musikcube](https://musikcube.com) is a fully functional terminal-based music player, library, and streaming audio server. There is also `musikdroid` app for android and `musikcore` library.
 * [tsrc](https://tankerapp.github.io/tsrc/) is a command-line tool that helps you manage several git repositories
@@ -23,6 +24,7 @@
 * [calcurse](https://calcurse.org/) is a calendar and scheduling application for the command line
 * [khal](https://github.com/pimutils/khal) - CLI calendar application
 * [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager
+* [sc-im](https://github.com/andmarti1424/sc-im) is a spreadsheet program that is based on SC
 
 
 ## Other
@@ -79,6 +81,7 @@ Delivery
 * [dotshare.it](http://dotshare.it/)
 * [trueline](https://github.com/petobens/trueline) - Bash Powerline Style Prompt with True Color Support
 * [Superpaper](https://github.com/hhannine/Superpaper) - A cross-platform multi monitor wallpaper manager.
+* [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 
 ## WM Tools
 
