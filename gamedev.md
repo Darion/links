@@ -4,6 +4,9 @@
 
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 
+## Resources
+
+- [Level Design Compendim](https://trello.com/b/AM3ZOmAd/level-design-compendium) (trello board with links)
 
 ## Engines
 

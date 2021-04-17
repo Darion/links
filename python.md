@@ -30,6 +30,7 @@
 * [fleep](https://github.com/floyernick/fleep) - File format determination library for Python
 * [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 * [ring](https://ring-cache.readthedocs.io/en/stable/) provides function-oriented cache interface for various backends. Other languages supported
+* [cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 
 
 ## CLI
@@ -42,6 +43,11 @@
 * [plumbum](https://plumbum.readthedocs.io/en/latest/) is a small yet feature-rich library for shell script-like programs in Python
 * [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 * [pygrape](https://github.com/Leviathan1995/pygrape) - pygrape is a python library for updating terminal output in realtime
+* [rich](https://rich.readthedocs.io/) - rich text in console (colors, style, tables, syntax highlighting, progressbars, etc.)
+
+## Web Scraping
+
+- [requests-html](https://requests-html.kennethreitz.org/) - css, xpath, cookie persistence, full javascript support through pyppeteer
 
 ## Inbox
 
@@ -58,6 +64,8 @@
 * [plain_obj](https://github.com/suzaku/plain_obj) - A faster alternative to namedtuple.
 * [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 * [dry-python](https://dry-python.org/) - A set of libraries for pluggable business logic components.
+* [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
+  * very fast, way better than regexps
 
 ## Testing
 

@@ -23,11 +23,18 @@
 * [nnn](https://github.com/jarun/nnn) - The fastest terminal file manager ever written.
 * [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 * [castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+* [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 
 # Utils
 
 * [pngquant](https://pngquant.org/) is a command-line utility and a library for lossy compression of PNG images.
 * [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
+* [espanso](https://espanso.org/) - cross-platform text expander
+* [fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
+
+# Web browsers addons
+
+* [floccus](https://github.com/floccusaddon/floccus) - Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
 
 
 # Inbox

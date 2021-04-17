@@ -6,6 +6,7 @@
 * [The Bezier Game](http://bezier.method.ac/) - A game to help you master the pen tool
 * [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything. 
 * [Curated](https://www.designcurated.io/) - Curated list of design articles
+* [checklist.design](https://www.checklist.design/) - Checklists for various type of UI's
 
 ## Art
 

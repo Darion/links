@@ -13,15 +13,18 @@
 * [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 * [mpld3](https://mpld3.github.io/index.html) brings together Matplotlib, the popular Python-based graphing library, and D3js, the popular JavaScript library for creating interactive data visualizations for the web
 * [streamlit](https://www.streamlit.io/)
+* [binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks
 
 ## Courses
 
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) - A 1-week extensive survey of deep learning methods and applications
 * [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python)
+* [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) - general introduction to computer vision
 
 ## Reading
 
 * [Notes on Artificial Intelligence by Francis Tseng](http://frnsys.com/ai_notes/)
+* [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 ## Other
 
@@ -32,3 +35,12 @@
 ## Data Stories
 
 * [ThePudding](https://pudding.cool) - A Weekly Journal of Visual Essays
+
+## Datasets
+
+- [Common Crawl](https://commoncrawl.org/) - petabytes of crawled websites since 2008
+
+## Visualization
+
+- [Altair](https://altair-viz.github.io/): Declarative Visualization in Python
+

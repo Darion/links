@@ -26,6 +26,7 @@
 ## Other
 
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity. Mix different sounds and create your perfect environment.
+* [JustWatch](https://www.justwatch.com/) - the streaming guide
 
 
 ## Web-browsers plugins

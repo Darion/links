@@ -34,6 +34,8 @@
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/) - Writing a sqlite clone from scratch in C
 * [Writing Great Documentation](https://jacobian.org/writing/great-documentation/)
 * [UTC is Enough for Everyone, Right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+* [roadmap.sh](https://roadmap.sh/) - Step by step guides and paths to learn different tools or technologies
+* [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 
 ## Guides
 
@@ -62,6 +64,12 @@
 * [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 * [Gitea](https://gitea.io/) is a community managed fork of Gogs, lightweight code hosting solution written in Go
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively. Powered by fzf.
+* [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+* [jsonnet](https://jsonnet.org/) - data templating language based on json
+
+## Sysadm/Devops
+
+* [litestream](https://litestream.io) - Continuously stream SQLite changes to S3-compatible storage
 
 ## Color Schemes
 
@@ -84,6 +92,10 @@
 
 * [Pommerman](https://www.pommerman.com/) - Train your team of AI agents in bomberman-like game
 
+## Services
+
+- [sourcehut](https://sr.ht/)
+
 ## Pastebins
 
 ### CLI Pastebins
@@ -93,6 +105,10 @@
 * [vpaste](vpaste.net)
 * [ix.io](http://ix.io/)
 * [termbin](https://termbin.com/)
+
+## Practices
+
+- [Advantages and Disadvantages of a Monolithic Repository: A case study at Google](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf)
 
 ## Awesome Lists
 

@@ -32,6 +32,7 @@
 * [Archlinux no DE install guide](http://nicholasglazer.github.io/arch-cheat-sheet/)
 * [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome way to create multiple tmux panes
 * [2fa](https://github.com/rsc/2fa) is a cli two-factor authentication agent
+* [explainshell](https://explainshell.com/) - match command-line arguments to their help text
  
 # emacs
 
@@ -48,6 +49,7 @@
 * [osquery](https://osquery.readthedocs.io/en/stable/) is an operating system instrumentation framework for Windows, OS X (macOS), Linux, and FreeBSD. The tools make low-level operating system analytics and monitoring both performant and intuitive. It exposes an operating system as a high-performance relational database. 
 * [cryfs](http://www.cryfs.org/) encrypts your files, so you can safely store them anywhere. It works well together with cloud services like Dropbox, iCloud, OneDrive and others.
 * [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
+* [firejail](https://firejail.wordpress.com/) is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf
 
 ## WM
 
@@ -79,16 +81,25 @@ Delivery
 * [dotshare.it](http://dotshare.it/)
 * [trueline](https://github.com/petobens/trueline) - Bash Powerline Style Prompt with True Color Support
 * [Superpaper](https://github.com/hhannine/Superpaper) - A cross-platform multi monitor wallpaper manager.
+* [ImageGoNord](https://ign.schrodinger-hat.it/) ([source](https://github.com/Schrodinger-Hat/ImageGoNord)) - a tool to bring any image to the nord pletter
 
 ## WM Tools
 
 * [dunst](https://dunst-project.org/) is a lightweight replacement for the notification-daemons provided by most desktop environments
+
+## Configuration Management
+
+* [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) #python
+  * knows config files for many apps, backups them automatically
+    * you can add any application support
+  * can restore configs back from symlinks
 
 
 ## Awesome Lists
 
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
 * [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
+* [tmux-plugins](https://github.com/tmux-plugins)
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes
 * [Terminals are Sexy](https://terminalsare.sexy/) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros. 

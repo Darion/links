@@ -1,6 +1,6 @@
 ## vim
 
-* [vimgifs](https://vimgifs.com/)
+* [vimgifs](https://vimgifs.com/) ([source](https://github.com/mrmrs/vimgifs/))
 * [vimrcfu](http://vimrcfu.com/)
 * [vivify](http://bytefluent.com/devify/) - A ColorScheme Editor for Vim
 * [vim-visual-star-search](https://github.com/nelstrom/vim-visual-star-search) - Start a * or # search from a visual block
@@ -27,6 +27,10 @@
 * [vimcolors](https://vimcolors.com/)
 * [vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 * [org.vim](https://github.com/axvr/org.vim) - is a very minimal Org mode and Outline mode plugin for Vim providing only syntax highlighting and folding.
+* [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
+  * synchronised scrolling, fast async updates, latex, plantuml, mermaid, etc.
+* [vim-quickrun](https://github.com/thinca/vim-quickrun) - execute selected parts of code
+
 
 ### Vim 8
 
@@ -38,3 +42,4 @@
 
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vimways](https://vimways.org/)
+* [idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
