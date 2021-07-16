@@ -49,3 +49,6 @@
 * [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://fs.blog/mental-models/)
 * [lyrebird](https://github.com/chxrlt/lyrebird) - Simple and powerful voice changer for Linux, written in GTK 3.
 * [MuscleWiki](https://musclewiki.com)
+- [awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [crums.io](https://crums.io) is a witness micro service providing digital certificates designed to establish when an object was first seen. The object can be anything digital: plain text, a document, an image, a video clip, a signature, a row in a database. The objects are actually identified by their SHA-256 hash, and it is these hashes that are witnessed and tracked.

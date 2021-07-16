@@ -44,6 +44,8 @@
 * [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 * [pygrape](https://github.com/Leviathan1995/pygrape) - pygrape is a python library for updating terminal output in realtime
 * [rich](https://rich.readthedocs.io/) - rich text in console (colors, style, tables, syntax highlighting, progressbars, etc.)
+- [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 
 ## Web Scraping
 
@@ -122,6 +124,7 @@
 * [nbQA](https://github.com/nbQA-dev/nbQA) - Adapter to run any code-quality tool on a Jupyter notebook. This is intended to be run as a pre-commit hook and/or during continuous integration.
 * [pysa](https://engineering.fb.com/security/pysa/): Open Source static analysis for Python code - Facebook Engineering
 * [inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
+* [pyan](https://github.com/Technologicat/pyan) - Static call graph generator. The official Python 3 version. Development repo.
 
 ## Reading Materials
 
