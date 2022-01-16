@@ -3,8 +3,6 @@
 
 * [Planet Python](http://planetpython.org/)
 * [pyvideo](http://pyvideo.org/)
-* [Python Books](http://pythonbooks.revolunet.com/) - The best free Python resources
-* [pythonbooks.org](http://pythonbooks.org/) - categorized python books catalog
 * [Think Complexity](http://greenteapress.com/complexity/html/index.html) - book is about data structures and algorithms, intermediate programming in Python, computational modeling and the philosophy of science
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
@@ -68,6 +66,7 @@
 * [dry-python](https://dry-python.org/) - A set of libraries for pluggable business logic components.
 * [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
   * very fast, way better than regexps
+* [pyWhat](https://github.com/bee-san/pyWhat) - Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is!
 
 ## Testing
 
@@ -140,6 +139,9 @@
 ## Books
 
 * [A Python Book: Beginning Python, Advanced Python, and Python Exercises](http://www.davekuhlman.org/python_book_01.html)
+* [Python Books](http://pythonbooks.revolunet.com/) - The best free Python resources
+* [pythonbooks.org](http://pythonbooks.org/) - categorized python books catalog
+* [Architecture Patterns with Python](https://www.cosmicpython.com/)
 
 ## Awesome Lists
 

@@ -18,6 +18,10 @@
 
 * [codedoodl.es](http://codedoodl.es) - is a showcase of curated creative coding sketches
 
+## Hosting
+
+- [render.com](https://render.com/) - static site hosting with free plan, custom domains and fully managed SSL
+
 ## Videogames
 
 * [Metal Gear Timeline](http://metalgeartimeline.com/)

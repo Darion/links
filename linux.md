@@ -35,6 +35,7 @@
 * [tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome way to create multiple tmux panes
 * [2fa](https://github.com/rsc/2fa) is a cli two-factor authentication agent
 * [explainshell](https://explainshell.com/) - match command-line arguments to their help text
+* [About XDG-dir compliant apps](https://github.com/grawity/dotfiles/blob/master/.dotfiles.notes)
  
 # emacs
 
@@ -67,6 +68,10 @@
 * [flatpak](https://flatpak.org/) is a next-generation technology for building and distributing desktop applications on Linux
 Delivery
 
+# Shell
+
+* [zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! The fast & light-weight Zsh plugin manager that's easy to grok. Also functions as a generic Git repo manager.
+
 # Shell prompts
 
 * [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
@@ -84,6 +89,7 @@ Delivery
 * [trueline](https://github.com/petobens/trueline) - Bash Powerline Style Prompt with True Color Support
 * [Superpaper](https://github.com/hhannine/Superpaper) - A cross-platform multi monitor wallpaper manager.
 * [ImageGoNord](https://ign.schrodinger-hat.it/) ([source](https://github.com/Schrodinger-Hat/ImageGoNord)) - a tool to bring any image to the nord pletter
+* [Nord themes for Linux](https://parasurv.neocities.org/nord-themes-linux.html) (article)
 
 ## WM Tools
 
