@@ -26,6 +26,7 @@
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate
 * [Material Kit](http://demos.creative-tim.com/material-kit/index.html) - A Badass Bootstrap UI Kit based on Material Design
 * [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/) - A utility-first CSS framework for rapidly building custom user interfaces
+- [spcss](https://github.com/susam/spcss) - A simple, minimal, classless stylesheet for simple HTML pages
 
 ## Fonts
 
@@ -39,17 +40,25 @@
 * [iconsvg](https://iconsvg.xyz/)
 * [ikonate](https://www.ikonate.com/)
 * [useAnimations](https://useanimations.com/) - animated icons
+* [iconduck](https://iconduck.com/)
+* [Lucide](https://lucide.dev/) - Open-source project and a fork of Feather Icons
+
+## Charts
+
+- [Charts.css](https://chartscss.org/) -  CSS data visualization framework
 
 ## Other Libs
 
 * [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly. 
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 * [klipse](https://github.com/viebel/klipse) - Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp
+* [markmap](https://markmap.js.org/) - markdown + mindmap
 
 ## Awesome Lists
 
 * [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 * [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
+* [The Vanilla JavaScript Repository](https://vanillalist.top/) - a collection of vanilla javascript libs
 
 ## Reading
 

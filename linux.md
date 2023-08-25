@@ -90,6 +90,12 @@ Delivery
 * [Superpaper](https://github.com/hhannine/Superpaper) - A cross-platform multi monitor wallpaper manager.
 * [ImageGoNord](https://ign.schrodinger-hat.it/) ([source](https://github.com/Schrodinger-Hat/ImageGoNord)) - a tool to bring any image to the nord pletter
 * [Nord themes for Linux](https://parasurv.neocities.org/nord-themes-linux.html) (article)
+- [kitty-theme-changer](https://github.com/fretboardfreak/kitty-theme-changer) - A helper script to change Kitty Terminal Emulator themes on the fly.
+- [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme) - Change colorscheme of alacritty with ease.
+
+### Articles
+
+- [Automatic dark mode for terminal applications](https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/)
 
 ## WM Tools
 

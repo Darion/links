@@ -43,4 +43,14 @@
 ## Visualization
 
 - [Altair](https://altair-viz.github.io/): Declarative Visualization in Python
+- [from Data to Viz](https://www.data-to-viz.com/) eads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
 
+### Books on Visualization
+
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+- [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/)
+
+
+## Other
+
+- [awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness

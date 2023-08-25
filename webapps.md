@@ -7,6 +7,8 @@
 * [Lola](https://lolashare.com/) - A free and decentralized peer to peer network for sharing and discovering music
 * [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 * [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
+* [owncast](https://owncast.online/) - is a self-hosted live video and web chat server for use with existing popular broadcasting software.
+* [filestash](https://www.filestash.app/) - web frontend for multiple file storage backends, supporting preview and edit, org-files.
 
 ## Services
 
@@ -17,6 +19,11 @@
 * [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 * [visualping](https://visualping.io/) - Web page changes monitoring
 * [ix.io](ix.io) - Command line pastebin
+* [termsend.pl](https://termsend.pl/) - pastebin service for terminal lovers
+
+## Community platforms
+
+- [pixelfed](https://pixelfed.org/) - ad-free, privacy-focused, open-source photo sharing platform
 
 ## API
 
@@ -32,3 +39,7 @@
 ## Web-browsers plugins
 
 * [Hypothesis](https://hypothes.is) - web annotation plugin
+
+## Lists
+
+- [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.

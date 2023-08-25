@@ -13,10 +13,13 @@
 ## Software
 
 - [ORCA](https://100r.co/site/orca.html) - Orca is an esoteric programming language, designed to create procedural sequencers in which each letter of the alphabet is an operation
+- [snd](https://ccrma.stanford.edu/software/snd/snd/snd.html)  is a sound editor modelled [loosely](loosely) after Emacs. It can be customized and extended using either s7 (included in the Snd sources), Ruby, or Forth.
+- [surge](https://surge-synthesizer.github.io/) - free and open-source hybrid synthesizer
 
 ## Music Theory
 
-* [Music Theory for Musicians and Normal People](http://tobyrush.com/theorypages/)
+- [Music Theory for Musicians and Normal People](http://tobyrush.com/theorypages/)
+- [Hooktheory Trends](https://www.hooktheory.com/trends) - An awesome way to explore chord progressions
 
 ## Unsorted
 

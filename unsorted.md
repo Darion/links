@@ -56,3 +56,7 @@
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [crums.io](https://crums.io) is a witness micro service providing digital certificates designed to establish when an object was first seen. The object can be anything digital: plain text, a document, an image, a video clip, a signature, a row in a database. The objects are actually identified by their SHA-256 hash, and it is these hashes that are witnessed and tracked.
+
+## Non-computer
+- [templatemaker.nl](https://www.templatemaker.nl/en/) - Create and download custom sized papercraft and packaging templates
+- [screenplays.io](https://screenplays.io/) - screenplays of movies and tv shows

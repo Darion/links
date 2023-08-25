@@ -47,6 +47,8 @@
 * [SQL Injection Wiki](https://sqlwiki.netspi.com/)
 * [Fear of Macros: A practical guide to Racket macros](http://www.greghendershott.com/fear-of-macros/)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+* [System Design Course](https://www.karanpratapsingh.com/courses/system-design) - Learn how to design systems at scale and prepare for system design interviews
+* [Command Line Inteface Guidelines](https://clig.dev/)
 
 ## Books
 
@@ -66,6 +68,10 @@
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively. Powered by fzf.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 * [jsonnet](https://jsonnet.org/) - data templating language based on json
+
+## Databases and tools around them
+
+- [dolt](https://github.com/dolthub/dolt) – It's Git for Data
 
 ## Sysadm/Devops
 

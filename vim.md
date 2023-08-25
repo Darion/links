@@ -15,7 +15,6 @@
 * [goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 * [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
-* [vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 * [vim-galore](https://github.com/mhinz/vim-galore) - Just another vim book
 * [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 * [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim 
@@ -31,6 +30,8 @@
   * synchronised scrolling, fast async updates, latex, plantuml, mermaid, etc.
 * [vim-quickrun](https://github.com/thinca/vim-quickrun) - execute selected parts of code
 * [vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
+- [vim-tpipeline](https://github.com/vimpostor/vim-tpipeline) - Embed your vim statusline in tmux.
+- [wheel](https://github.com/chimay/wheel) - Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
 
 
 ### Vim 8
@@ -38,6 +39,10 @@
 * [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 * [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 * [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
+
+### Vim anywhere
+- [vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
+- [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
 
 ### Vim Books and Guides
 

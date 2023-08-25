@@ -29,6 +29,8 @@
 * [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 * [ring](https://ring-cache.readthedocs.io/en/stable/) provides function-oriented cache interface for various backends. Other languages supported
 * [cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
+- [pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python
+- [nbcommands](https://github.com/vinayak-mehta/nbcommands) - Unix commands for Jupyter notebooks.
 
 
 ## CLI
@@ -124,6 +126,8 @@
 * [pysa](https://engineering.fb.com/security/pysa/): Open Source static analysis for Python code - Facebook Engineering
 * [inquest](https://github.com/yiblet/inquest) - Inquest lets you add log statements to python without restarting your python instance. It helps you quickly uncover what is going wrong.
 * [pyan](https://github.com/Technologicat/pyan) - Static call graph generator. The official Python 3 version. Development repo.
+* [PyTrace](https://pytrace.com/) - Time Travel Debugging for Python
+- [jut](https://github.com/kracekumar/jut) - Render Jupyter notebook in the terminal
 
 ## Reading Materials
 
@@ -134,7 +138,8 @@
 * [Essential Reads for Any Python Programmer](http://notesbyanerd.com/2017/12/29/essential-reads-for-any-python-programmer/)
 * [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
 * [Python libraries to make your code readable, reliable and maintainable](https://isaak.dev/2020/08/python-libraries-to-make-your-code-readable-and-maintainable#testing-frameworks)
-
+* [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
+* [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
 
 ## Books
 

@@ -6,4 +6,4 @@
 - [wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [amethyst](https://amethystwindows.com/) - automatic tiling window manager for Windows 10
-
+- [command e](https://getcommande.com/) - albert-like launcher
